@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Is Metadata Collection Consistent with the 4th Amendment?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66254</md:content-id>
+  <md:title>Is Metadata Collection Consistent with the 4th Amendment?</md:title>
+  <md:abstract>Constitutional lawyer David Rivkin discusses the constitutionality of metadata collection.</md:abstract>
+  <md:uuid>30a30434-faab-4bbf-baa4-ea68dd1770ed</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/T0r02TpsIeI"/>
+ </media>
+<caption>"Is Metadata Collection Consistent with the 4th Amendment?" by the Institute for Humane Studies</caption></figure></para><para id="eip-295"><title>Description</title>Constitutional lawyer David Rivkin discusses the constitutionality of metadata collection.</para><exercise id="eip-50"><problem id="eip-359">
+  <para id="eip-990">
+    Why is the collection of metadata considered consistent with the Fourth Amendment?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>A special warrant has been granted to the NSA allowing them to collect metadata.</item>
+  <item>The collection of metadata does not fall under the definition of search used in the Fourth Amendment.</item>
+  <item>The Fourth Amendment includes a special provision for cases of domestic terrorism.</item>
+  <item>Trick question! Metadata collection violates the Fourth Amendment.</item>
+</list></para>
+</problem>
+
+<solution id="eip-924">
+  <para id="eip-19">b. The collection of metadata does not fall under the definition of search used in the Fourth Amendment.</para></solution>
+</exercise></content>
+
+</document>

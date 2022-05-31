@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What Is Metadata and Why Is It Collected?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66276</md:content-id>
+  <md:title>What Is Metadata and Why Is It Collected?</md:title>
+  <md:abstract>Constitutional lawyer David Rivikin defines metadata and explains how it's used in surveillance.</md:abstract>
+  <md:uuid>cf784ffd-3d4e-4a39-bd6c-026f6f69b155</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/7iiGgQj2P0M"/>
+ </media>
+<caption>"What Is Metadata and Why Is It Collected?" by the Institute for Humane Studies</caption></figure></para><para id="eip-465"><title>Description</title>Constitutional lawyer David Rivikin defines metadata and explains how it's used in surveillance.</para><exercise id="eip-909"><problem id="eip-397">
+  <para id="eip-823">Why is the NSA interested in collecting metadata?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>It allows the NSA to read the content of communications to find possible links to terrorism.</item>
+  <item>It allows the NSA to track the purchases of American citizens to determine who is preparing to stage a terrorist attack.</item>
+  <item>It allows the NSA to track American phone numbers calling phone numbers of known terrorists.</item>
+  <item>It allows the NSA to track the movements of American citizens to determine who was present at terrorist attacks.</item>
+</list></para></problem>
+
+<solution id="eip-930">
+  <para id="eip-108">c. It allows the NSA to track American phone numbers calling phone numbers of known terrorists.</para></solution>
+</exercise></content>
+
+</document>

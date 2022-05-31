@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What Is Section 702 of FISA?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66253</md:content-id>
+  <md:title>What Is Section 702 of FISA?</md:title>
+  <md:abstract>Constitutional lawyer David Rivkin explains Section 702 of FISA.</md:abstract>
+  <md:uuid>de07dfad-2ef0-4e66-9120-341790a1502f</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/Y-HJL8L56jo"/>
+ </media>
+<caption>"What Is Section 702 of FISA?" by the Institute for Humane Studies</caption></figure></para><para id="eip-278"><title>Description</title>Constitutional lawyer David Rivkin explains Section 702 of FISA.</para><exercise id="eip-286"><problem id="eip-77">
+  <para id="eip-380">
+    What does Section 702 of FISA allow the NSA to do?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>Collect metadata about American communications.</item>
+  <item>Collect metadata about foreign communications.</item>
+  <item>Collect the content of foreign communications.</item>
+  <item>Arrest foreign terror suspects without a warrant.</item>
+</list></para>
+</problem>
+
+<solution id="eip-645">
+  <para id="eip-171">c. Collect the content of foreign communications.</para></solution>
+</exercise></content>
+
+</document>

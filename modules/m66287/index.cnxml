@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What Is the US Patriot Act?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66287</md:content-id>
+  <md:title>What Is the US Patriot Act?</md:title>
+  <md:abstract>Professor Elizabeth Price Foley of Florida International University explains how the US Patriot Act allows the NSA to collect metadata on Americans' communications.</md:abstract>
+  <md:uuid>4c05a237-120e-4ca5-b8f9-2d501be73d24</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube">
+ <title/>
+ <media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/Q_8BRLCx5R0"/>
+ </media>
+</figure>
+</para><para id="eip-439"><title>Description</title>Professor Elizabeth Price Foley of Florida International University explains how the US Patriot Act allows the NSA to collect metadata on Americans' communications.</para><exercise id="eip-953"><problem id="eip-671">
+  <para id="eip-529">
+    Section 215 of the Patriot Act allows the NSA to collect
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>the content of American communications.</item>
+  <item>the content of foreign communications.</item>
+  <item>metadata about American communications.</item>
+  <item>metadata about foreign communications.</item>
+</list></para>
+</problem>
+
+<solution id="eip-744">
+  <para id="eip-156">b. the content of foreign communications.</para></solution>
+</exercise></content>
+
+</document>
