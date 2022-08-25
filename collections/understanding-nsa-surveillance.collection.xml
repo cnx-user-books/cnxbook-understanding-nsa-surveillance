@@ -1,104 +1,29 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col24332</md:content-id>
-  <md:title>Understanding NSA Surveillance</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>1d5ff988-a375-4bd7-a41b-a6dd14d8f8b8</md:uuid>
-<md:slug>understanding-nsa-surveillance</md:slug>
-</metadata>
-
+    <md:content-id>col24332</md:content-id>
+    <md:title>Understanding NSA Surveillance</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1d5ff988-a375-4bd7-a41b-a6dd14d8f8b8</md:uuid>
+    <md:slug>understanding-nsa-surveillance</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m66288"/>
-        
-      
-    
-    
-      <col:module document="m66286"/>
-        
-      
-    
-    
-      <col:module document="m66279"/>
-        
-      
-    
-    
-      <col:module document="m66275"/>
-        
-      
-    
-    
-      <col:module document="m66271"/>
-        
-      
-    
-    
-      <col:module document="m66253"/>
-        
-      
-    
-    
-      <col:module document="m66273"/>
-        
-      
-    
-    
-      <col:module document="m66277"/>
-        
-      
-    
-    
-      <col:module document="m66256"/>
-        
-      
-    
-    
-      <col:module document="m66287"/>
-        
-      
-    
-    
-      <col:module document="m66276"/>
-        
-      
-    
-    
-      <col:module document="m66254"/>
-        
-      
-    
-    
-      <col:module document="m66255"/>
-        
-      
-    
-    
-      <col:module document="m66264"/>
-        
-      
-    
-    
-      <col:module document="m66280"/>
-        
-      
-    
-    
-      <col:module document="m66259"/>
-        
-      
-    
+    <col:module document="m66288"/>
+    <col:module document="m66286"/>
+    <col:module document="m66279"/>
+    <col:module document="m66275"/>
+    <col:module document="m66271"/>
+    <col:module document="m66253"/>
+    <col:module document="m66273"/>
+    <col:module document="m66277"/>
+    <col:module document="m66256"/>
+    <col:module document="m66287"/>
+    <col:module document="m66276"/>
+    <col:module document="m66254"/>
+    <col:module document="m66255"/>
+    <col:module document="m66264"/>
+    <col:module document="m66280"/>
+    <col:module document="m66259"/>
   </col:content>
 </col:collection>
